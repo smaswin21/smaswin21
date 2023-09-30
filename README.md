@@ -1,9 +1,23 @@
-### Hi there 👋
+### Hey, I’m Aswin ⚡️
 
 <!--
-**smaswin21/smaswin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Driven by Curiosity for Learning **
 
-Here are some ideas to get you started:
+I’m a college student, passionate about AI, and Data Science. Coding is the essential thread in our virtual world, guiding me to a deeper understanding of this realm...I want to explore and work on projects which benefits our society and connects people. I like python and now exploring Cloud and Databases. 
+
+### 🖥 Langauges and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<br />
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
