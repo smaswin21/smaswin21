@@ -1,0 +1,20 @@
+name: IE Metrics
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  your_job_name:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Run IE Metrics
+      uses: velocitatem/OrgGithubMetrics@main
+      env:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
