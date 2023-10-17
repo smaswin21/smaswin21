@@ -6,6 +6,11 @@
 
 ⚡ I’m a college student, passionate about AI, and Data Science. I’m always up for learning and would like to explore and work on projects which benefits our society and connects people. I like python and now exploring C, Cloud and Databases. 
 
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 ## Contact Me
 
