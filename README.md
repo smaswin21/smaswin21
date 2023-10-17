@@ -5,7 +5,7 @@
 
 
 
-- ⚡ I’m a college student, passionate about AI, and Data Science. Coding is the essential thread in our virtual world, guiding me to a deeper understanding of this realm...I want to explore and work on projects which benefits our society and connects people. I like python and now exploring Cloud and Databases. 
+⚡ I’m a college student, passionate about AI, and Data Science. Coding is the essential thread in our virtual world, guiding me to a deeper understanding of this realm...I want to explore and work on projects which benefits our society and connects people. I like python and now exploring Cloud and Databases. 
 
 ### 🖥 Languages and Tools
 
