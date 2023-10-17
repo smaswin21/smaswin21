@@ -1,7 +1,8 @@
 ### Hey, I’m Aswin ⚡️
 
 
-![My Bitmoji](https://imgur.com/z1En63Y](https://i.imgur.com/z1En63Y.png)](https://i.imgur.com/z1En63Y.png)
+![Hello, I’m Aswin](https://i.imgur.com/z1En63Y.png)
+
 
 
 - ⚡ I’m a college student, passionate about AI, and Data Science. Coding is the essential thread in our virtual world, guiding me to a deeper understanding of this realm...I want to explore and work on projects which benefits our society and connects people. I like python and now exploring Cloud and Databases. 
