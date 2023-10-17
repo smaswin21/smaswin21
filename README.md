@@ -4,8 +4,16 @@
 ![Hello, I’m Aswin](https://i.imgur.com/z1En63Y.png)
 
 
+⚡ I’m a college student, passionate about AI, and Data Science. I’m always up for learning and would like to explore and work on projects which benefits our society and connects people. I like python and now exploring C, Cloud and Databases. 
 
-⚡ I’m a college student, passionate about AI, and Data Science. Coding is the essential thread in our virtual world, guiding me to a deeper understanding of this realm...I want to explore and work on projects which benefits our society and connects people. I like python and now exploring Cloud and Databases. 
+
+## Contact Me
+
+<div id="badges">
+  <a href="www.linkedin.com/in/aswin-subramanian-maheswaran-3b9a2323b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ### 🖥 Languages and Tools
 
@@ -16,6 +24,5 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
 
-## Contact Me
 
-You can reach out to me on [LinkedIn](www.linkedin.com/in/aswin-subramanian-maheswaran-3b9a2323b).
+
