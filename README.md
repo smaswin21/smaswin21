@@ -10,7 +10,7 @@
 ## Contact Me
 
 <div id="badges">
-  <a href="www.linkedin.com/in/aswin-subramanian-maheswaran-3b9a2323b">
+  <a href="https://www.linkedin.com/in/aswin-subramanian-maheswaran-3b9a2323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
