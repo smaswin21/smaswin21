@@ -20,14 +20,31 @@
   </a>
 </div>
 
-### 🖥 Languages and Tools
+###  🖥️  Languages
 
+<div>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
+<img align="left" alt="D" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+
+<br clear="left">
+</div>
+
+### :hammer_and_wrench: Tools
+
+<div>
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>
+
+
+
+<br clear="left">
+</div>
+
 
 
 
