@@ -37,11 +37,27 @@
 <a href="https://github.com/smaswin21/pepper-emoji">
   <img width="496" alt="Screenshot 2023-12-23 at 15 47 20" src="https://github.com/smaswin21/smaswin21/assets/130904493/6913d9de-444c-4521-b014-c6adfd630adc">
 </a>
-
 <a href="https://github.com/ahubler01/Acciona_Datathon">
   <img width="617" alt="Screenshot 2023-12-23 at 15 55 52" src="https://github.com/smaswin21/smaswin21/assets/130904493/e1fdb739-6c42-4440-bf74-f5b540224342">
 </a>
+<a href="https://github.com/smaswin21/hackathon">
+  <img width="615" alt="Screenshot 2023-12-23 at 22 59 49" src="https://github.com/smaswin21/smaswin21/assets/130904493/0390d9ce-706d-4862-a27a-5d83152f68be">
+</a>
 
+## Learning Website Development 
+
+  <a href="https://github.com/smaswin21/personal-website">
+    <img width="615" alt="Screenshot 2023-12-23 at 22 59 49" src="https://github.com/smaswin21/smaswin21/assets/130904493/06071beb-2ecf-43c7-8d9d-1b35e7b2dc5d">
+  </a>
+  <a href="https://github.com/smaswin21/clubbing_databases">
+    <img width="447" alt="Screenshot 2023-12-23 at 23 04 53" src="https://github.com/smaswin21/smaswin21/assets/130904493/81d33118-8df0-48cf-99c0-cfdae4c44ec3">
+  </a>
+
+## Games
+
+  <a href="https://github.com/smaswin21/Asteroids--an-arcade-game">
+  <img width="473" alt="Screenshot 2023-12-23 at 23 11 21" src="https://github.com/smaswin21/smaswin21/assets/130904493/fff87376-ab56-41a8-8b0d-a3c33a7dd602">
+</a>
 
 
 
