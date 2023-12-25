@@ -17,12 +17,17 @@
 
 ## 🌐 Socials:
 
-<div id="social-badges" style="display: flex; align-items: center; gap: 10px;">
+<div id="social-badges" style="display: flex; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/aswin-subramanian-maheswaran-3b9a2323b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@sm_aswin21" target="_blank">
+  
+  <a href="https://medium.com/@sm.aswin21" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  
+  <a href="https://smaswin21.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Website-lightgreen?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
   </a>
 </div>
 
