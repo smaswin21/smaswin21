@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/smaswin21/smaswin21/raw/main/assets/ef46bc72-5098-438b-b5f5-a1ec91060c37.svg" alt="Work time-rafiki" />
+  <img src="/Users/sm_aswin21/Desktop/smaswin21/assets/Work time-rafiki.svg" alt="Work time-rafiki" />
 </p>
 
 <div align="center">
