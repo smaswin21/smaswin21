@@ -2,13 +2,13 @@
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Aswin ⚡️
 </h3>
 
-<p align="center">
-  <img src="/Users/sm_aswin21/Desktop/smaswin21/assets/Work time-rafiki.svg" alt="Work time-rafiki" />
-</p>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
 </div>
+
+<p align="center">
+  <img src="https://github.com/smaswin21/smaswin21/assets/130904493/e07c97c6-e6db-4fa8-a322-f0fc09823c62" width="500" alt="Work time-rafiki (1)"/>
+</p>
 
 
 
