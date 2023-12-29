@@ -48,19 +48,25 @@
 
 ## Learning Website Development 
 
-  <a href="https://github.com/smaswin21/personal-website">
-    <img width="615" alt="Screenshot 2023-12-23 at 22 59 49" src="https://github.com/smaswin21/smaswin21/assets/130904493/06071beb-2ecf-43c7-8d9d-1b35e7b2dc5d">
+  <a href="https://github.com/smaswin21/smaswin21.github.io">
+    <img width="455" alt="Screenshot 2023-12-29 at 20 55 30" src="https://github.com/smaswin21/smaswin21/assets/130904493/bea78bde-286a-467c-a2b5-7102a4b34873">
   </a>
+  
   <a href="https://github.com/smaswin21/clubbing_databases">
-    <img width="447" alt="Screenshot 2023-12-23 at 23 04 53" src="https://github.com/smaswin21/smaswin21/assets/130904493/81d33118-8df0-48cf-99c0-cfdae4c44ec3">
+   <img width="489" alt="Screenshot 2023-12-29 at 20 58 02" src="https://github.com/smaswin21/smaswin21/assets/130904493/1aed33c7-d0f4-4e06-9e68-beb678d89f40">
   </a>
 
 ## Games
 
   <a href="https://github.com/smaswin21/Asteroids--an-arcade-game">
   <img width="473" alt="Screenshot 2023-12-23 at 23 11 21" src="https://github.com/smaswin21/smaswin21/assets/130904493/fff87376-ab56-41a8-8b0d-a3c33a7dd602">
-</a>
+  </a>
 
+## Software Development 
+
+  <a href="https://github.com/smaswin21/Borat-Language">
+  <img width="512" alt="Screenshot 2023-12-29 at 20 59 57" src="https://github.com/smaswin21/smaswin21/assets/130904493/4de94462-797d-49b7-a503-f4b0c049582b">
+  </a>
 
 
 
