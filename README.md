@@ -1,11 +1,11 @@
-### Hey, I’m Aswin ⚡️
 
-
-![Hello, I’m Aswin](https://i.imgur.com/z1En63Y.png)
-
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
-</div>
+<h3 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Aswin ⚡️
+  <br><br>
+  <div id="badges">
+    <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
+  </div>
+</h3>
 
 
 # 💫 About Me:
