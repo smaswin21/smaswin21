@@ -1,15 +1,14 @@
 <h3 align="center">
   Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I’m Aswin ⚡️
 </h3>
+
 <p align="center">
-  <img src="https://github.com/smaswin21/smaswin21/assets/130904493/14cc2685-2950-4c82-9efd-b7d510ae689e" alt="Big Shoes - Torso (1)" />
+  <img src="https://github.com/smaswin21/smaswin21/raw/main/assets/ef46bc72-5098-438b-b5f5-a1ec91060c37.svg" alt="Work time-rafiki" />
 </p>
 
-<h3 align="center">
-  <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
-  </div>
-</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=smaswin21&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 
