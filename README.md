@@ -44,7 +44,7 @@
 ## AI & ML Projects
 
 <a href="https://github.com/smaswin21/pepper-emoji">
-  <img width="496" alt="Screenshot 2023-12-23 at 15 47 20" src="https://github.com/smaswin21/smaswin21/assets/130904493/6913d9de-444c-4521-b014-c6adfd630adc">
+  <img width="625" alt="Screenshot 2024-01-03 at 19 14 03" src="https://github.com/smaswin21/smaswin21/assets/130904493/27fe1ff4-f3f6-4a07-97ba-ec18c564809d">
 </a>
 <a href="https://github.com/ahubler01/Acciona_Datathon">
   <img width="617" alt="Screenshot 2023-12-23 at 15 55 52" src="https://github.com/smaswin21/smaswin21/assets/130904493/e1fdb739-6c42-4440-bf74-f5b540224342">
