@@ -14,8 +14,8 @@
 
 
 # 💫 About Me:
-⚡ I’m a college student, passionate about AI, and Data Science. I’m always up for learning and would like to explore and work on projects which benefits our society and connects people. I like python and now exploring C, Cloud and Databases. 
 
+I’m an enthusiastic and hard-working computer science student with deep passion for machine learning, generative AI, and robotics. I’m always curious for learning new concepts and would like to explore and work on projects. I have worked with python and now I’m exploring C, Cloud Services and Database Design. 
 
 ## 🌐 Socials:
 
