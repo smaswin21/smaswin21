@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-I’m an enthusiastic and hard-working computer science student with deep passion for machine learning, generative AI, and robotics. I’m always curious for learning new concepts and would like to explore and work on projects. I have worked with python and now I’m exploring C, Cloud Services and Database Design. 
+I’m an enthusiastic and hard-working computer science student with deep passion for machine learning, generative AI, and robotics. 
 
 ## 🌐 Socials:
 
@@ -55,11 +55,10 @@ I’m an enthusiastic and hard-working computer science student with deep passio
 
 ## Learning Website Development 
 
-#### smaswin21.github.io
 [![smaswin21.github.io](https://img.shields.io/badge/smaswin21.github.io-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/smaswin21.github.io)
 > A personal portfolio website showcasing my projects, skills, and experience.
 
-#### clubbing_databases
+
 [![clubbing_databases](https://img.shields.io/badge/clubbing_databases-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/clubbing_databases)
 > A comprehensive database and web interface for managing club activities and memberships.
 
