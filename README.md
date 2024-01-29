@@ -11,8 +11,6 @@
 </p>
 
 
-
-
 # 💫 About Me:
 
 I’m an enthusiastic and hard-working computer science student with deep passion for machine learning, generative AI, and robotics. I’m always curious for learning new concepts and would like to explore and work on projects. I have worked with python and now I’m exploring C, Cloud Services and Database Design. 
@@ -43,37 +41,38 @@ I’m an enthusiastic and hard-working computer science student with deep passio
 
 ## AI & ML Projects
 
-<a href="https://github.com/smaswin21/pepper-emoji">
-  <img width="625" alt="Screenshot 2024-01-03 at 19 14 03" src="https://github.com/smaswin21/smaswin21/assets/130904493/27fe1ff4-f3f6-4a07-97ba-ec18c564809d">
-</a>
-<a href="https://github.com/ahubler01/Acciona_Datathon">
-  <img width="617" alt="Screenshot 2023-12-23 at 15 55 52" src="https://github.com/smaswin21/smaswin21/assets/130904493/e1fdb739-6c42-4440-bf74-f5b540224342">
-</a>
-<a href="https://github.com/smaswin21/hackathon">
-  <img width="615" alt="Screenshot 2023-12-23 at 22 59 49" src="https://github.com/smaswin21/smaswin21/assets/130904493/0390d9ce-706d-4862-a27a-5d83152f68be">
-</a>
+[![pepper-emoji](https://img.shields.io/badge/pepper--emoji-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/pepper-emoji)
+> Emoji Prediction model based on contextual usage in conversations to bridge the communication gap between individuals with and without Autism. 
+
+[![Acciona_Datathon](https://img.shields.io/badge/Acciona_Datathon-007ec6?style=for-the-badge&logo=github)](https://github.com/ahubler01/Acciona_Datathon)
+> Data analysis and machine learning modeling for Acciona's energy optimization challenge.
+
+[![Foaqum Analytics Hackathon](https://img.shields.io/badge/hackathon-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/hackathon)
+> Innovative solution developed using OpenAI’s API, Langchain, VectorDB. 
+
+[![Generative AI_Bootcamp](https://img.shields.io/badge/genAI_Bootcamp-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/genAI_Bootcamp)
+> Developed a GenAI based website with a chatbot using Flask (Langchain & OpenAI’s API) + ReactJS.
 
 ## Learning Website Development 
 
-  <a href="https://github.com/smaswin21/smaswin21.github.io">
-    <img width="455" alt="Screenshot 2023-12-29 at 20 55 30" src="https://github.com/smaswin21/smaswin21/assets/130904493/bea78bde-286a-467c-a2b5-7102a4b34873">
-  </a>
-  
-  <a href="https://github.com/smaswin21/clubbing_databases">
-   <img width="489" alt="Screenshot 2023-12-29 at 20 58 02" src="https://github.com/smaswin21/smaswin21/assets/130904493/1aed33c7-d0f4-4e06-9e68-beb678d89f40">
-  </a>
+#### smaswin21.github.io
+[![smaswin21.github.io](https://img.shields.io/badge/smaswin21.github.io-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/smaswin21.github.io)
+> A personal portfolio website showcasing my projects, skills, and experience.
+
+#### clubbing_databases
+[![clubbing_databases](https://img.shields.io/badge/clubbing_databases-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/clubbing_databases)
+> A comprehensive database and web interface for managing club activities and memberships.
+
 
 ## Games
 
-  <a href="https://github.com/smaswin21/Asteroids--an-arcade-game">
-  <img width="473" alt="Screenshot 2023-12-23 at 23 11 21" src="https://github.com/smaswin21/smaswin21/assets/130904493/fff87376-ab56-41a8-8b0d-a3c33a7dd602">
-  </a>
+[![Asteroids - an arcade game](https://img.shields.io/badge/Asteroids--an%20arcade%20game-red?style=for-the-badge&logo=github)](https://github.com/smaswin21/Asteroids--an-arcade-game)
+> A modern rendition of the classic arcade game, built with advanced graphics.
 
-## Software Development 
+## Language Development
 
-  <a href="https://github.com/smaswin21/Borat-Language">
-  <img width="512" alt="Screenshot 2023-12-29 at 20 59 57" src="https://github.com/smaswin21/smaswin21/assets/130904493/4de94462-797d-49b7-a503-f4b0c049582b">
-  </a>
+[![Borat-Language](https://img.shields.io/badge/Borat--Language-yellow?style=for-the-badge&logo=github)](https://github.com/smaswin21/Borat-Language)
+> Description for Borat-Language project.
 
 
 
