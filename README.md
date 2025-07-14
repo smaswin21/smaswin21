@@ -13,7 +13,7 @@
 
 # 💫 About Me:
 
-Enthusiastic and hard-working computer science student with deep passion for machine learning, generative AI, and robotics. 
+Enthusiastic computer science student with deep passion for machine learning, generative AI, and building cool stuff :) 
 
 ## 🌐 Socials:
 
