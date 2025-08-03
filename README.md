@@ -41,11 +41,11 @@ Enthusiastic computer science student with deep passion for machine learning, ge
 
 ## AI & ML Projects
 
-[![pepper-emoji](https://img.shields.io/badge/pepper--emoji-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/pepper-emoji)
-> Emoji Prediction model based on contextual usage in conversations to bridge the communication gap between individuals with and without Autism. 
+[![cv-eye-tracking](https://img.shields.io/badge/pepper--emoji-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/cv_eye_tracking)
+> A computer vision system for tracking and analyzing student attention levels in classroom environments using face and eye detection.
 
-[![Acciona_Datathon](https://img.shields.io/badge/Acciona_Datathon-007ec6?style=for-the-badge&logo=github)](https://github.com/ahubler01/Acciona_Datathon)
-> Data analysis and machine learning modeling for Acciona's energy optimization challenge.
+[![NTT Hackathon](https://img.shields.io/badge/Acciona_Datathon-007ec6?style=for-the-badge&logo=github)]([https://github.com/ahubler01/Acciona_Datathon](https://github.com/smaswin21/NTT_Hackathon)
+> Data analysis and machine learning modeling for NTT's solar energy optimization challenge.
 
 [![Foaqum Analytics Hackathon](https://img.shields.io/badge/hackathon-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/hackathon)
 > Innovative solution developed using OpenAI’s API, Langchain, VectorDB. 
@@ -58,21 +58,10 @@ Enthusiastic computer science student with deep passion for machine learning, ge
 [![smaswin21.github.io](https://img.shields.io/badge/smaswin21.github.io-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/smaswin21.github.io)
 > A personal portfolio website showcasing my projects, skills, and experience.
 
-
-[![clubbing_databases](https://img.shields.io/badge/clubbing_databases-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/clubbing_databases)
-> A comprehensive database and web interface for managing club activities and memberships.
-
-
 ## Games
 
 [![Asteroids - an arcade game](https://img.shields.io/badge/Asteroids--an%20arcade%20game-red?style=for-the-badge&logo=github)](https://github.com/smaswin21/Asteroids--an-arcade-game)
 > A modern rendition of the classic arcade game, built with advanced graphics.
-
-## Language Development
-
-[![Borat-Language](https://img.shields.io/badge/Borat--Language-yellow?style=for-the-badge&logo=github)](https://github.com/smaswin21/Borat-Language)
-> Description for Borat-Language project.
-
 
 
 # 📊 GitHub Stats:
