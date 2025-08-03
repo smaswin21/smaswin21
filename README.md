@@ -41,22 +41,11 @@ Enthusiastic computer science student with deep passion for machine learning, ge
 
 ## AI & ML Projects
 
-[![cv-eye-tracking](https://img.shields.io/badge/pepper--emoji-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/cv_eye_tracking)
+[![CV Eye Tracking](https://img.shields.io/badge/CV_Eye_Tracking-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/cv_eye_tracking)  
 > A computer vision system for tracking and analyzing student attention levels in classroom environments using face and eye detection.
 
-[![NTT Hackathon](https://img.shields.io/badge/Acciona_Datathon-007ec6?style=for-the-badge&logo=github)]([https://github.com/ahubler01/Acciona_Datathon](https://github.com/smaswin21/NTT_Hackathon)
+[![NTT Hackathon](https://img.shields.io/badge/NTT_Hackathon-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/NTT_Hackathon)  
 > Data analysis and machine learning modeling for NTT's solar energy optimization challenge.
-
-[![Foaqum Analytics Hackathon](https://img.shields.io/badge/hackathon-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/hackathon)
-> Innovative solution developed using OpenAI’s API, Langchain, VectorDB. 
-
-[![Generative AI_Bootcamp](https://img.shields.io/badge/genAI_Bootcamp-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/genAI_Bootcamp)
-> Developed a GenAI based website with a chatbot using Flask (Langchain & OpenAI’s API) + ReactJS.
-
-## Learning Website Development 
-
-[![smaswin21.github.io](https://img.shields.io/badge/smaswin21.github.io-Project_Badge_Color?style=for-the-badge&logo=github)](https://github.com/smaswin21/smaswin21.github.io)
-> A personal portfolio website showcasing my projects, skills, and experience.
 
 ## Games
 
