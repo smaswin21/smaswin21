@@ -39,6 +39,20 @@ Enthusiastic computer science student with deep passion for machine learning, ge
 
 # Personal Projects
 
+## Internship Project @ MongoDB
+
+#### Built a suite of GenAI-powered tools (UI + microservices) to streamline editorial workflows, including automated content analysis, semantic search, and AI-powered writing assistance.
+
+[![Content Lab UI](https://img.shields.io/badge/Content_Lab_UI-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mongodb-industry-solutions/content-lab-ui)  
+> UI for Content Lab demo, showcasing how to streamline editorial operations with GenAI and MongoDB.
+
+[![Content Lab Backend - Suggestion Engine](https://img.shields.io/badge/Content_Lab_Backend_(Suggestion_Engine)-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mongodb-industry-solutions/content-lab-backend-search)  
+> Backend microservice for Content Lab's Automated Content Analysis & Suggestion Engine. Built with FastAPI, using MongoDB for scalable storage and vector search, with scheduled ingestion and analysis jobs to transform raw news/social data into actionable insights.
+
+[![Content Lab Backend - Writing Assistant](https://img.shields.io/badge/Content_Lab_Backend_(Writing_Assistant)-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mongodb-industry-solutions/content-lab-backend-writing-assistant)  
+> Backend microservice for the Writing Assistant, leveraging Anthropic Claude via AWS Bedrock to provide real-time writing suggestions, completions, and productivity tools for content creators.
+
+
 ## AI & ML Projects
 
 [![CV Eye Tracking](https://img.shields.io/badge/CV_Eye_Tracking-007ec6?style=for-the-badge&logo=github)](https://github.com/smaswin21/cv_eye_tracking)  
